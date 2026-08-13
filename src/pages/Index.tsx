@@ -98,14 +98,11 @@ const Index = () => {
         />
         <div className="container mx-auto max-w-4xl text-center">
           <h2 className="text-3xl md:text-4xl font-bold mb-6">
-            Ready to Strengthen Your Mindset?
+            Ready to meet Astrid of Model Environments?
           </h2>
-          <p className="text-xl text-gray-300 mb-8">
-            Have a chat with Aito, our Personal Development Mentor.
-          </p>
           <a href="https://www.aitodidactia.uk" target="_blank" rel="noopener noreferrer">
             <Button size="lg" className="bg-white text-gray-900 hover:bg-gray-100 px-8 py-3">
-              Call Aito
+              Click Here
             </Button>
           </a>
         </div>
