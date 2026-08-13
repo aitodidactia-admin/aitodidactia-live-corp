@@ -9,7 +9,7 @@ const About = () => {
         
         <div className="space-y-6 text-gray-600 text-lg leading-relaxed">
           <p>
-            The Aitodidactia Organisation began partially as an academic exercise, but mostly to serve an emerging human need to develop mental strength and fitness in a demanding modern world.
+            Aitodidactia began partially as an academic exercise, but mostly to serve an emerging human need to develop mental strength and fitness in a demanding modern world.
           </p>
 
           <p>
